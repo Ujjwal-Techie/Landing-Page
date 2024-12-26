@@ -59,9 +59,9 @@ The proposed solution offers the following benefits:
 - **Regular Updates:** Keep your site current with new projects, certifications, and achievements.
 
   ## Hello Friends 👋👋
- I have made a beginner friendly non-responsive portfolio website for your better understanding and Code analysis If you're a true beginner in learning web development. I have made the whole website section wise for the better understanding to understand the code and sections with improved readability you can find the code beginner friendly which helps you in learning the web development quickly and easily.
-
- Fork and download this, to start your learning journey, Share On your linkedin after amending your changes and [👉 Tag me using 👈 ](https://www.linkedin.com/in/ujjwal-sharma-763534223) to showcase your New Changes and creativity.
+ I have made a beginner friendly non-responsive portfolio website for your better understanding and Code analysis If you're a true beginner in learning web development. I have made the whole website section wise for the better understanding the code and sections with improved readability you can able to understand the code easily and quickly with side by side description on important area.
+ 
+Fork and download this, to start your learning, Share On your Linkedin after amending your changes and [👉 Tag me using 👈 ](https://www.linkedin.com/in/ujjwal-sharma-763534223) to showcase your New Changes and creativity.
  
  You can find the whole code and files in the secondary branch.
 

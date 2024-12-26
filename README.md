@@ -3,19 +3,19 @@
 
 ### 🌩️Front-End  Designs:-
 
-### --------------------------------------------------- >⚡ Home Page ⚡<----------------------------------
+### ------------------------------------------- >⚡ Home Page ⚡<----------------------------------
 
 ![image](https://github.com/Ujjwal-Techie/Landing-Page/blob/landingpage-files/Screen%20Shots/Screenshot%202024-12-25%20170956.png)
 
-### ------------------------------------------------- >  😎 About Me: 😎<--------------------------------------
+### ----------------------------------------- >  😎 About Me: 😎<--------------------------------------
 
 ![image](https://github.com/Ujjwal-Techie/Landing-Page/blob/landingpage-files/Screen%20Shots/Screenshot%202024-12-25%20171036.png)
 
-### ----------------------------------------------- >🎓 Education Section : 🎓< ------------------------------------ 
+### ------------------------------------- >🎓 Education Section : 🎓< ------------------------------------ 
 
 ![image](https://github.com/Ujjwal-Techie/Landing-Page/blob/landingpage-files/Screen%20Shots/Screenshot%202024-12-25%20171101.png)
 
-### ---------------------------------------------- > 🤖 Skills & Abilities : 🤖 < ---------------------------------- 
+### -------------------------------------- > 🤖 Skills & Abilities : 🤖 < ---------------------------------- 
 
 ![image](https://github.com/Ujjwal-Techie/Landing-Page/blob/landingpage-files/Screen%20Shots/Screenshot%202024-12-25%20171130.png)
 

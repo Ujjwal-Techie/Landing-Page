@@ -61,7 +61,7 @@ The proposed solution offers the following benefits:
   ## Hello Friends 👋👋
  I have made a beginner friendly non-responsive portfolio website for your better understanding and Code analysis If you're a true beginner in learning web development. I have made the whole website section wise for the better understanding the code and sections with improved readability you can able to understand the code easily and quickly with side by side description on important area.
  
-Fork and download this, to start your learning, Share On your Linkedin after amending your changes and tag me [👉 LinkedIn 👈 ](https://www.linkedin.com/in/ujjwal-sharma-763534223) to showcase your New Changes and creativity.
+Fork and download this, to start your learning, Share On your Linkedin after amending your changes and tag me on [👉 LinkedIn 👈 ](https://www.linkedin.com/in/ujjwal-sharma-763534223) to showcase your New Changes and creativity.
  
  You can find the whole code and files in the secondary branch.
 
